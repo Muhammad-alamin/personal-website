@@ -13,11 +13,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+  //  return view('welcome');
+//});
 Route::get('admin/dashboard','Admin\AdminController@dashboard')->name('admin.dashboard');
 
+
 Auth::routes(['register'=>false]);
+
+Route::get('/','Front\FrontController@home')->name('front.home');
+Route::get('/about','Front\AboutController@about')->name('front.about');
+Route::get('/resume','Front\ResumeController@resume')->name('front.resume');
+Route::get('/service','Front\ServiceController@service')->name('front.service');
+Route::get('/portfolio','Front\PortfolioController@portfolio')->name('front.portfolio');
+Route::get('/contact','Front\ContactController@contact')->name('front.contact');
 
 Route::get('/home', 'HomeController@index')->name('home');

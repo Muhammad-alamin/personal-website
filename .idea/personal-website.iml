@@ -112,8 +112,12 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/realrashid/sweet-alert" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/intervention/image" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="230e98b440" level="application" />
   </component>
 </module>

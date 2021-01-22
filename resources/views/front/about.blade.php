@@ -8,41 +8,40 @@
 
                 <div class="section-title">
                     <h2>About</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>I am Alamin. I am a experienced Web Developer
+                        in designing and developing user interfaces, testing, debugging, and training
+                        staff within eCommerce technologies. Proven ability in optimizing
+                        web functionality that improve data retrieval and workflow efficiencies.</p>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4">
-                        <img src="{{asset('assets/front/assets/img/about.jpg')}}" class="img-fluid" alt="">
+                        <img src="{{asset('assets/front/assets/img/my_pic.jpg')}}" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-8 pt-4 pt-lg-0 content">
-                        <h3>Illustrator &amp; UI/UX Designer</h3>
+                        <h3>PHP &amp; Laravel Developer</h3>
                         <p class="font-italic">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                            magna aliqua.
+                            Developed dynamic and interactive website that ensured high traffic, page views, and User Experience, resulting in 40% increase in sales revenue.
                         </p>
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 icofont-1x">
                                 <ul>
-                                    <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 10 Oct 1994</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> 0163-3037007 / 0176-4442804</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Dhaka, Bangladesh</li>
                                 </ul>
                             </div>
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 icofont-1x">
                                 <ul>
-                                    <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 30</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                                    <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 27</li>
+                                    <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Bachelor</li>
+                                    <li><i class="icofont-rounded-right" ></i> <strong>Email:</strong> alamin.softdevloper@gmail.com</li>
                                     <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                                 </ul>
                             </div>
                         </div>
-                        <p>
-                            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
-                        </p>
+
                     </div>
                 </div>
 
@@ -55,7 +54,6 @@
 
                 <div class="section-title">
                     <h2>Skills</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                 </div>
 
                 <div class="row skills-content">
@@ -95,7 +93,7 @@
                         </div>
 
                         <div class="progress">
-                            <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+                            <span class="skill">Laravel <i class="val">90%</i></span>
                             <div class="progress-bar-wrap">
                                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -116,40 +114,7 @@
         </section><!-- End Skills Section -->
 
         <!-- ======= Facts Section ======= -->
-        <section id="facts" class="facts">
-            <div class="container" data-aos="fade-up">
 
-                <div class="section-title">
-                    <h2>Facts</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-                </div>
-
-                <div class="row counters">
-
-                    <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">232</span>
-                        <p>Clients</p>
-                    </div>
-
-                    <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">521</span>
-                        <p>Projects</p>
-                    </div>
-
-                    <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">1,463</span>
-                        <p>Hours Of Support</p>
-                    </div>
-
-                    <div class="col-lg-3 col-6 text-center">
-                        <span data-toggle="counter-up">15</span>
-                        <p>Hard Workers</p>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Facts Section -->
 
         <!-- ======= Testimonials Section ======= -->
         <section id="testimonials" class="testimonials">
@@ -157,62 +122,41 @@
 
                 <div class="section-title">
                     <h2>Testimonials</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                 </div>
 
                 <div class="owl-carousel testimonials-carousel">
 
                     <div class="testimonial-item">
-                        <img src="{{asset('assets/front/assets/img/testimonials/testimonials-1.jpg')}}" class="testimonial-img" alt="">
-                        <h3>Saul Goodman</h3>
-                        <h4>Ceo &amp; Founder</h4>
+                        <img src="{{asset('assets/front/assets/img/testimonials/nirjhor_sir.jpg')}}" class="testimonial-img" alt="">
+                        <h3>Nirjhor Anjum</h3>
+                        <h4>Head of Engineering & Operations
+                            ADN Telecom Limited</h4>
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                            It has been a real pleasure to teaching with Alamin.
+                            He has been very kindful and very clear in all communications, which I appreciate.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
 
                     <div class="testimonial-item">
-                        <img src="{{asset('assets/front/assets/img/testimonials/testimonials-2.jpg')}}" class="testimonial-img" alt="">
-                        <h3>Sara Wilsson</h3>
-                        <h4>Designer</h4>
+                        <img src="{{asset('assets/front/assets/img/testimonials/arman_sir.jpg')}}" class="testimonial-img" alt="">
+                        <h3>Arman Hakim Sagar</h3>
+                        <h4>Trainer of PeopleNTech</h4>
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                            My experience with Alamin is great. He is a conscientious, hard-working student.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
 
                     <div class="testimonial-item">
-                        <img src="{{asset('assets/front/assets/img/testimonials/testimonials-3.jpg')}}" class="testimonial-img" alt="">
-                        <h3>Jena Karlis</h3>
-                        <h4>Store Owner</h4>
+                        <img src="{{asset('assets/front/assets/img/testimonials/hamid_sir.jpg')}}" class="testimonial-img" alt="">
+                        <h3>Abdul Hamid</h3>
+                        <h4>Admin of PeopleNTech</h4>
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="{{asset('assets/front/assets/img/testimonials/testimonials-4.jpg')}}" class="testimonial-img" alt="">
-                        <h3>Matt Brandon</h3>
-                        <h4>Freelancer</h4>
-                        <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                        </p>
-                    </div>
-
-                    <div class="testimonial-item">
-                        <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                        <h3>John Larson</h3>
-                        <h4>Entrepreneur</h4>
-                        <p>
-                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                            Be strong as you fight your way to success, the difficulty you face is nothing compared to the joy of success.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>

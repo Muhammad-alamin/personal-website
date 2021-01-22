@@ -19,7 +19,9 @@
 
 
 <div id="preloader"></div>
-<a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+<a href="{{route('front.home')}}" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
+
+    @include('sweetalert::alert')
 
     @include('front.layouts._js')
 

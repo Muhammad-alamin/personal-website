@@ -33,6 +33,7 @@
     <!-- /.control-sidebar -->
 </div>
 <!-- ./wrapper -->
+    @include('sweetalert::alert')
 
 <!-- jQuery -->
     @include('admin.layouts._js')

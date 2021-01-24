@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class ServiceController extends Controller
 {
     public function service(){
-        $title ['title'] = 'Muhammad Alamin | Services';
+        $title ['title'] = 'Alamin | Services';
         return view('front.service', $title);
     }
 }

@@ -19,7 +19,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <link href="{{asset('assets/front/assets/img/favicon.ico')}}" rel="icon">
+    <link href="{{asset('assets/front/assets/img/original_favicon.png')}}" rel="icon">
     <link href="{{asset('assets/front/assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -69,9 +69,10 @@
                     <div class="col-lg-4 portfolio-info">
                         <h3>Project information</h3>
                         <ul>
+                            <li><strong>Project Name</strong>: {{$eachPortfolio->name}}</li>
                             <li><strong>Category</strong>: {{$eachPortfolio->category}}</li>
                             <li><strong>Client</strong>: {{$eachPortfolio->client}}</li>
-                            <li><strong>Project date</strong>:{{$eachPortfolio->created_at}}</li>
+                            <li><strong>Project date</strong>: {{$eachPortfolio->created_at->format('d-M-Y')}}</li>
                             <li><strong>Project URL</strong>: <a href="{{$eachPortfolio->Project_url}}">{{$eachPortfolio->Project_url}}</a></li>
                         </ul>
 

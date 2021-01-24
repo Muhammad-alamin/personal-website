@@ -19,7 +19,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <!-- Favicons -->
-    <link href="{{asset('assets/front/assets/img/favicon.ico')}}" rel="icon">
+    <link href="{{asset('assets/front/assets/img/original_favicon.png')}}" rel="icon">
     <link href="{{asset('assets/front/assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -96,8 +96,8 @@
         </div>
     </div>
 
-    <div class="hero">
-        <p class="xyz">I'm Alamin.</p>
+    <div class="text">
+        <p>I'm Alamin.</p>
         <p>I'm a professional PHP/Laravel Developer</p>
         <a href="{{route('front.about')}}"><button>About Me</button></a>
         <div class="bg mb-sm-auto mb-lg-auto mb-md-auto mb-xl-auto align-items-center"></div>

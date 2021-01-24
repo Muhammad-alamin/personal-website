@@ -10,7 +10,7 @@ use RealRashid\SweetAlert\Facades\Alert;
 class ContactController extends Controller
 {
     public function contact(){
-        $title ['title'] = 'Muhammad Alamin | Contact';
+        $title ['title'] = 'Alamin | Contact';
         return view('front.contact', $title);
     }
 
@@ -31,7 +31,7 @@ class ContactController extends Controller
         $contact->description = $request->description;
         $contact->embed_code = $request->embed_code;
         $contact->save();
-        Alert::toast('Thanks for your feedback', 'success');
-        return redirect()->route('front.home');
+        Alert::success('success','Thanks for your feedback');
+        return redirect()->back();
     }
 }

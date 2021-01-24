@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class AboutController extends Controller
 {
     public function about(){
-        $title ['title'] = 'Muhammad Alamin | About';
+        $title ['title'] = 'Alamin | About';
         return view('front.about', $title);
     }
 }

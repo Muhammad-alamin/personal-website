@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class ResumeController extends Controller
 {
     public function resume(){
-        $title ['title'] = 'Muhammad Alamin | Resume';
+        $title ['title'] = 'Alamin | Resume';
         return view('front.resume', $title);
     }
 }
